@@ -125,6 +125,18 @@
       "sigpw": "1234",
       "login": true,
       "id": 14
+    },
+    {
+      "sigid": "유수정",
+      "sigpw": "1234",
+      "login": false,
+      "id": 15
+    },
+    {
+      "sigid": "유수정",
+      "sigpw": "1234",
+      "login": true,
+      "id": 16
     }
   ]
 }
